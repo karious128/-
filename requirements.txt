@@ -1,0 +1,7 @@
+streamlit
+pytesseract
+pandas
+pillow
+re
+io
+numpy
